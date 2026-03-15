@@ -26,3 +26,8 @@ I am an **AI/ML Engineer** based in the heart of Silicon Valley, currently contr
   <img src="https://github-readme-stats.vercel.app/api?username=esenthil74&show_icons=true&theme=radical" alt="Senthil's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esenthil74&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/esenthil/)
+- 📝 [Medium Articles](https://esenthil.medium.com/)
